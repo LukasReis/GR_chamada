@@ -1,0 +1,9 @@
+{
+    "name":"Gerenciador_Chamadas", 
+    "autoload":{
+        "psr-4":{
+            "App\\":"app/"
+        }
+    }
+
+}
